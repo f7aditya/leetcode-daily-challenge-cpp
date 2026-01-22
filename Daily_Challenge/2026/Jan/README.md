@@ -6,11 +6,12 @@ This folder contains my daily LeetCode challenge solutions written in C++.
 
 | Day | Problem | Topic |
 |-----|---------|-------|
-| 01 | — | — |
+| 22 | Minimum Pair Removal to Sort Array I | Simulation |
 | 02 | — | — |
 | 03 | — | — |
 | 04 | — | — |
 | 05 | — | — |
+
 
 Each solution includes:
 - Clear approach explanation
